@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Test_jar2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/odbudowa/Test_jar2/Test/out/artifacts/Test_jar2/NoMachine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/Test_jar2/Test/out/artifacts/Test_jar2/Test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/Test_jar2/Test/out/artifacts/Test_jar2/geckodriver-v0.30.0-win64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

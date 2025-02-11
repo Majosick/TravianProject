@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="odbudowa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/odbudowa/Travian.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/Test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="NoMachine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine/GrabDedicated.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine/Napadzmachiny.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine/AtakZmaxhiny.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine/NormalDedicated.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine/GrabiDedicatedOnlyCenty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine/GrabiDedicatedOnlyKonie.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine/GrabimyOazke.jar!/" />
+      <root url="jar://$PROJECT_DIR$/odbudowa/NoMachine/Test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
