@@ -1,0 +1,5 @@
+,30 * * * * DISPLAY=:0 /usr/bin/java -jar /root/Desktop/Tescik/Test.jar
+
+a wszystkie bibeloty w Home Directory
+
+
